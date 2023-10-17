@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1686142569 source:c:\users\iustin453\desktop\proj doi\proj grupe\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<chrono>
+	<ctime>
+
+1686517126 source:c:\users\sebi nebunu\desktop\proj grupe\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<chrono>
+	<ctime>
+
